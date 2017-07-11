@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__42-[HFImageEditorViewController doneAction:]_block_invoke:HFImageEditorViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HFImageEditorViewController newTransformedImage:sourceImage:sourceSize:sourceOrientation:outputWidth:cropRect:imageViewSize:]:HFImageEditorViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "sourceSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__40-[NRFinishReviewViewController onShare:]_block_invoke:NRFinishReviewViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_review">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[NRMaster checkAndRemoveFromLocalNotification:]:NRMaster.m">
+      </ContextState>
+      <ContextState
+         contextName = "__43-[HFImageEditorViewController applyFilter:]_block_invoke_2:HFImageEditorViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "filteredImage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

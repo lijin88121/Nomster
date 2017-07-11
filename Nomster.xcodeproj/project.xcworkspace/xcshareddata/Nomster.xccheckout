@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5D85AC52-99DC-4431-B8F7-DE7637348FD9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Nomster</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>74079D6B-CA7F-4FDD-BC2E-15BD4527E3F3</key>
+		<string>https://github.com/johnsonitesteel/nomster.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Nomster/Nomster.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>74079D6B-CA7F-4FDD-BC2E-15BD4527E3F3</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/johnsonitesteel/nomster.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>74079D6B-CA7F-4FDD-BC2E-15BD4527E3F3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>74079D6B-CA7F-4FDD-BC2E-15BD4527E3F3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Project</string>
+		</dict>
+	</array>
+</dict>
+</plist>
